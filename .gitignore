@@ -1,0 +1,13 @@
+# Foundry build artefacts
+out/
+cache/
+broadcast/
+
+# Local scratch space, deleted before verification
+test/scratch/
+
+# Editor and local tooling
+.idea/
+.vscode/
+.env
+.env.*
